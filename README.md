@@ -1,2 +1,2 @@
 # bash_utils
-cat and grep
+Develop basic Bash utilities for working with C programming language texts
